@@ -1,0 +1,17 @@
+void main()
+{
+
+   int x = 10 ;
+   float y = 5 ;
+   cout << x + y ;
+   printf ( x / y ) ;
+   string a = "compiler-design" ;
+
+   if ( x >= y )
+     { return false }
+    
+   else return true
+
+}
+
+
